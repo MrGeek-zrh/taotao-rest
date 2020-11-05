@@ -1,0 +1,5 @@
+127.0.0.1 - - [29/Oct/2020:15:31:09 +0800] "GET /taotao-rest/rest/content/89 HTTP/1.1" 200 1095 http-bio-8081-exec-1 401
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:15:31:16 +0800] "GET /taotao-rest/rest/item/cat/list?callback=category.getDataService HTTP/1.1" 200 9227 http-bio-8081-exec-3 624
+127.0.0.1 - - [29/Oct/2020:15:34:06 +0800] "GET /taotao-rest/rest/content/89 HTTP/1.1" 200 1095 http-bio-8081-exec-5 1872
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:15:34:23 +0800] "GET /taotao-rest/rest/item/cat/list?callback=category.getDataService HTTP/1.1" 200 9227 http-bio-8081-exec-7 261
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:15:35:07 +0800] "GET /taotao-rest/rest/item/cat/list?callback=category.getDataService HTTP/1.1" 200 9227 http-bio-8081-exec-8 223
